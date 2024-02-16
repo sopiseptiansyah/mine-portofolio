@@ -71,11 +71,11 @@ const Index = () => {
             }}
           >
             Person who can create websites <br />
-            from Indonesia
+            from Indonesiaaaaaaaaa
           </Text>
           <div className="cta-wrapper">
             <Button
-              size={'xl'}
+              size={'lg'}
               color="primary"
               shadow
               ghost
