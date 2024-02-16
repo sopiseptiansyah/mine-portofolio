@@ -85,7 +85,7 @@ const Index = () => {
               Download CV
             </Button>
             <Button size={'xlllllll'} color="primary" shadow onClick={handleContactMe}>
-              Contact Me
+              Contact Mess
             </Button>
           </div>
         </div>
