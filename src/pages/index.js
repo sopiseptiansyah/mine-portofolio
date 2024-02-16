@@ -61,7 +61,7 @@ const Index = () => {
             }}
             weight="bolder"
           >
-            Web Developer
+            Web Developersssss
           </Text>
           <Text
             size={36}
