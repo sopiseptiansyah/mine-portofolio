@@ -61,7 +61,7 @@ const Index = () => {
             }}
             weight="bolder"
           >
-            Web Developer
+            Web Developersssss
           </Text>
           <Text
             size={36}
@@ -71,7 +71,7 @@ const Index = () => {
             }}
           >
             Person who can create websites <br />
-            from Indonesiaaaaaaaaa
+            from Indonesiaaaaaaaaaasdwadsw
           </Text>
           <div className="cta-wrapper">
             <Button
@@ -84,8 +84,8 @@ const Index = () => {
             >
               Download CV
             </Button>
-            <Button size={'xl'} color="primary" shadow onClick={handleContactMe}>
-              Contact Me
+            <Button size={'xlllllll'} color="primary" shadow onClick={handleContactMe}>
+              Contact Mess
             </Button>
           </div>
         </div>
