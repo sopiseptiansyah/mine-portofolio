@@ -67,7 +67,7 @@ const Index = () => {
             size={36}
             weight="bold"
             css={{
-              marginBottom: 25
+              marginBottom: 100
             }}
           >
             Person who can create websites <br />
