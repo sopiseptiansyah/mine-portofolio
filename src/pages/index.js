@@ -71,7 +71,7 @@ const Index = () => {
             }}
           >
             Person who can create websites <br />
-            from Indonesiaaaaaaaaa
+            from Indonesiaaaaaaaaaasdwadsw
           </Text>
           <div className="cta-wrapper">
             <Button
