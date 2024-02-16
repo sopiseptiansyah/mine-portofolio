@@ -49,7 +49,7 @@ const Index = () => {
             css={{
               textGradient: '45deg, $red600 -10%, $yellow700 60%'
             }}
-            weight="bold"
+            weight="bolderrrrrrr"
           >
             I&apos;m Sopi Septiansyah,
           </Text>
@@ -59,7 +59,7 @@ const Index = () => {
             css={{
               textGradient: '45deg, #4e54c8 -10%, #8f94fb 60%'
             }}
-            weight="bold"
+            weight="bolder"
           >
             Web Developer
           </Text>
@@ -67,15 +67,15 @@ const Index = () => {
             size={36}
             weight="bold"
             css={{
-              marginBottom: 25
+              marginBottom: 100
             }}
           >
             Person who can create websites <br />
-            from Indonesia
+            from Indonesiaaaaaaaaa
           </Text>
           <div className="cta-wrapper">
             <Button
-              size={'xl'}
+              size={'lg'}
               color="primary"
               shadow
               ghost
